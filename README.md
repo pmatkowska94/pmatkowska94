@@ -1,4 +1,14 @@
 ### Hi there 👋
+**my name is Paulina**
+_I'm 29 years orld_
+~~nothing to write~~
+**I'm _happy_ to be here**
+**_happy life_**
+***happiness***
+This is <sup> subscript </sup> text
+>this is quote
+>an this also
+
 ## Hi again
 # Hi
 
