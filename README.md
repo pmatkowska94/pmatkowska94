@@ -5,6 +5,15 @@ _I'm 29 years orld_
 **I'm _happy_ to be here**
 **_happy life_**
 ***happiness***
+-1
+-2
+-3
++1
++2
++3
+1.a
+1.a
+1.a
 This is <sup> subscript </sup> text
 >this is quote
 >an this also
@@ -15,16 +24,7 @@ aaa
 aaaa
 
 ```
-##
--1
--2
--3
-+1
-+2
-+3
-1.a
-1.a
-1.a
+
 `#000000`
 `rgb(R,G,B)`
 ##Link: [link](https://github.com/pmatkowska94/pmatkowska94/edit/main/README.md)
