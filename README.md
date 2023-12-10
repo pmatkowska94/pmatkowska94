@@ -13,6 +13,8 @@ This is <sup> subscript </sup> text
 hmm?
 aaa
 aaaa
+`#000000`
+`rgb(R,G,B)`
 ```
 ## Hi again
 # Hi
